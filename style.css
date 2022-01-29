@@ -1,0 +1,21 @@
+html {
+  background: #1c6ea4;
+  background: -moz-linear-gradient(left, #1c6ea4 0%, #2388cb 50%, #144e75 100%);
+  background: -webkit-linear-gradient(
+    left,
+    #1c6ea4 0%,
+    #2388cb 50%,
+    #144e75 100%
+  );
+  background: linear-gradient(to right, #1c6ea4 0%, #2388cb 50%, #144e75 100%);
+}
+
+.nft_card_container {
+  background-color: #144e75;
+  width: 20%;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  margin: auto;
+  margin-top: 10%;
+  padding: 10px;
+}
